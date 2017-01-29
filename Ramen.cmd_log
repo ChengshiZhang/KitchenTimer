@@ -1,0 +1,227 @@
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Ramen.xst" -ofn "X:/EC311labs/KitchenTimer/Ramen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ramen.ucf -p xc6slx16-csg324-3 Ramen.ngc Ramen.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Ramen_map.ncd Ramen.ngd Ramen.pcf 
+par -w -intstyle ise -ol high -mt off Ramen_map.ncd Ramen.ncd Ramen.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Ramen.twx Ramen.ncd -o Ramen.twr Ramen.pcf -ucf Ramen.ucf 
+bitgen -intstyle ise -f Ramen.ut Ramen.ncd 

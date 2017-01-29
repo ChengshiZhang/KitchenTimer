@@ -1,0 +1,5 @@
+verilog work "Debouncer.v"
+verilog work "clock_divider.v"
+verilog work "FSM.v"
+verilog work "fsm_test.v"
+verilog work "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v"

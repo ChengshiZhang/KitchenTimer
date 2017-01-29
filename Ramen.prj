@@ -1,0 +1,6 @@
+verilog work "vga_controller.v"
+verilog work "Debouncer.v"
+verilog work "clock_divider.v"
+verilog work "vga_display.v"
+verilog work "FSM.v"
+verilog work "Ramen.v"

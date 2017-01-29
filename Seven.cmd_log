@@ -1,0 +1,57 @@
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc test_Seven.ucf -uc Seven.ucf -p xc6slx16-csg324-3 Seven.ngc Seven.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Seven_map.ncd Seven.ngd Seven.pcf 
+par -w -intstyle ise -ol high -mt off Seven_map.ncd Seven.ncd Seven.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Seven.twx Seven.ncd -o Seven.twr Seven.pcf -ucf test_Seven.ucf -ucf Seven.ucf 
+bitgen -intstyle ise -f Seven.ut Seven.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc test_Seven.ucf -uc Seven.ucf -p xc6slx16-csg324-3 Seven.ngc Seven.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Seven_map.ncd Seven.ngd Seven.pcf 
+par -w -intstyle ise -ol high -mt off Seven_map.ncd Seven.ncd Seven.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Seven.twx Seven.ncd -o Seven.twr Seven.pcf -ucf test_Seven.ucf -ucf Seven.ucf 
+bitgen -intstyle ise -f Seven.ut Seven.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc test_Seven.ucf -uc Seven.ucf -p xc6slx16-csg324-3 Seven.ngc Seven.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Seven_map.ncd Seven.ngd Seven.pcf 
+par -w -intstyle ise -ol high -mt off Seven_map.ncd Seven.ncd Seven.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Seven.twx Seven.ncd -o Seven.twr Seven.pcf -ucf test_Seven.ucf -ucf Seven.ucf 
+bitgen -intstyle ise -f Seven.ut Seven.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc test_Seven.ucf -uc Seven.ucf -p xc6slx16-csg324-3 Seven.ngc Seven.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Seven_map.ncd Seven.ngd Seven.pcf 
+par -w -intstyle ise -ol high -mt off Seven_map.ncd Seven.ncd Seven.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Seven.twx Seven.ncd -o Seven.twr Seven.pcf -ucf test_Seven.ucf -ucf Seven.ucf 
+bitgen -intstyle ise -f Seven.ut Seven.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Seven.ucf -uc test_Seven.ucf -p xc6slx16-csg324-3 Seven.ngc Seven.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Seven_map.ncd Seven.ngd Seven.pcf 
+par -w -intstyle ise -ol high -mt off Seven_map.ncd Seven.ncd Seven.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Seven.twx Seven.ncd -o Seven.twr Seven.pcf -ucf Seven.ucf -ucf test_Seven.ucf 
+bitgen -intstyle ise -f Seven.ut Seven.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Seven.ucf -uc test_Seven.ucf -p xc6slx16-csg324-3 Seven.ngc Seven.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Seven_map.ncd Seven.ngd Seven.pcf 
+par -w -intstyle ise -ol high -mt off Seven_map.ncd Seven.ncd Seven.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Seven.twx Seven.ncd -o Seven.twr Seven.pcf -ucf Seven.ucf -ucf test_Seven.ucf 
+bitgen -intstyle ise -f Seven.ut Seven.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Seven.ucf -uc test_Seven.ucf -p xc6slx16-csg324-3 Seven.ngc Seven.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Seven_map.ncd Seven.ngd Seven.pcf 
+par -w -intstyle ise -ol high -mt off Seven_map.ncd Seven.ncd Seven.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Seven.twx Seven.ncd -o Seven.twr Seven.pcf -ucf Seven.ucf -ucf test_Seven.ucf 
+bitgen -intstyle ise -f Seven.ut Seven.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Seven.ucf -uc test_Seven.ucf -p xc6slx16-csg324-3 Seven.ngc Seven.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Seven_map.ncd Seven.ngd Seven.pcf 
+par -w -intstyle ise -ol high -mt off Seven_map.ncd Seven.ncd Seven.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Seven.twx Seven.ncd -o Seven.twr Seven.pcf -ucf Seven.ucf -ucf test_Seven.ucf 
+bitgen -intstyle ise -f Seven.ut Seven.ncd 
+xst -intstyle ise -ifn "X:/EC311labs/KitchenTimer/Seven.xst" -ofn "X:/EC311labs/KitchenTimer/Seven.syr" 

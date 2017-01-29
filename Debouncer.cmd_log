@@ -1,0 +1,3 @@
+vhdtdtfi -lib work X:/EC311labs/KitchenTimer/Debouncer.v -lang verilog -prj KitchenTimer -o Debouncer.spl -module Debouncer -template C:/Xilinx/14.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 Debouncer.spl X:/EC311labs/KitchenTimer/Debouncer.sym 
+vhdtdtfi -lang verilog -prj KitchenTimer -o X:/EC311labs/KitchenTimer/Debouncer.vhi -lib work X:/EC311labs/KitchenTimer//Debouncer.v -module Debouncer -template C:/Xilinx/14.2/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror 

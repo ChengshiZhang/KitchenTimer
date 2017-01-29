@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=X:\EC311labs\KitchenTimer\impact.xsl
+OUTFILE=X:\EC311labs\KitchenTimer\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=X:\EC311labs\KitchenTimer
+LICENSE=iMPACT
+USER_INFO=iMPACT

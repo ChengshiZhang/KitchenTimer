@@ -1,0 +1,11 @@
+[Inputs]
+clk
+PB
+[Outputs]
+PB_state
+PB_down
+PB_up
+[BiDir]
+[ATTRIBUTES]
+VeriModel Debouncer
+

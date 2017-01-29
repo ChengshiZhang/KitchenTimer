@@ -1,0 +1,23 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "X:/EC311labs/KitchenTimer/fsm_test_isim_beh.exe" -prj "X:/EC311labs/KitchenTimer/fsm_test_beh.prj" "work.fsm_test" "work.glbl" 
+ISim P.28xd (signature 0xa0883be4)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "X:/EC311labs/KitchenTimer/Debouncer.v" into library work
+Analyzing Verilog file "X:/EC311labs/KitchenTimer/clock_divider.v" into library work
+Analyzing Verilog file "X:/EC311labs/KitchenTimer/FSM.v" into library work
+Analyzing Verilog file "X:/EC311labs/KitchenTimer/fsm_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module clock_divider
+Compiling module Debouncer
+Compiling module FSM
+Compiling module fsm_test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 Verilog Units
+Built simulation executable X:/EC311labs/KitchenTimer/fsm_test_isim_beh.exe
+Fuse Memory Usage: 28524 KB
+Fuse CPU Usage: 608 ms

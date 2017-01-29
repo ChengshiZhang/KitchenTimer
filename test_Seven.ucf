@@ -1,0 +1,30 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = V10;
+NET "button" LOC = C9;
+NET "AN[0]" LOC = N16;
+NET "AN[1]" LOC = N15;
+NET "AN[2]" LOC = P18;
+NET "AN[3]" LOC = P17;
+NET "cathode[0]" LOC = T17;
+NET "cathode[1]" LOC = T18;
+NET "cathode[2]" LOC = U17;
+NET "cathode[3]" LOC = U18;
+NET "cathode[4]" LOC = M14;
+NET "cathode[5]" LOC = N14;
+NET "cathode[6]" LOC = L14;
+NET "in[0]" LOC = U16;
+NET "in[1]" LOC = V16;
+NET "in[2]" LOC = U15;
+NET "in[3]" LOC = V15;
+NET "in[4]" LOC = M11;
+NET "in[5]" LOC = N11;
+NET "in[6]" LOC = D9;
+NET "in[7]" LOC = C4;
+NET "in[8]" LOC = R11;
+NET "in[9]" LOC = T11;
+NET "in[10]" LOC = C9;
+NET "in[11]" LOC = A8;
+NET "in[12]" LOC = B8;
+NET "timeUp" LOC = U16;

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "X:/EC311labs/KitchenTimer/fsm_test_isim_beh.exe" -prj "X:/EC311labs/KitchenTimer/fsm_test_beh.prj" "work.fsm_test" "work.glbl" 
